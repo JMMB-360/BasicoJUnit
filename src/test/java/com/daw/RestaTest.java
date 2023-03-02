@@ -16,6 +16,6 @@ public class RestaTest {
 
 	@Test
 	public void test() {
-		assertEquals(1,Resta.restar(2, 1));
+		assertEquals(2,Resta.restar(2, 1));
 	}
 }
